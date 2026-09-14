@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <header className="max-w-2xl mx-auto px-6 pt-16">
-        <h1 className="text-4xl font-semibold tracking-tight">Terence Emmanuel De Vera</h1>
+        <h1 className="text-4xl font-semibold tracking-tight">Gian Joebert B. Caparas</h1>
         <p className="mt-2 text-lg text-slate-600">Third year BSIT student at Cebu Institute of Technology – University.</p>
         <hr className="mt-8 border-slate-200" />
       </header>
@@ -14,9 +14,7 @@ function App() {
             <section className="mb-10">
               <h2 className="text-xl font-semibold mb-3">About</h2>
               <p className="leading-relaxed text-slate-700">
-                I grew up in Mambaling Cebu City eversince I was a kid. I picked IT because I originally want to make games
-                since I love to play games , and I have been slowly figuring out
-                what part of that I enjoy most. So far it is the part where something finally runs.
+              I am 20 years old and I am currently a third year BSIT student at Cebu Institute of Technology - University. I am a person who is passionate aboout design and development. Currently, I am learning and exploring more about Data Analytics and at the same time I am also working as a freelance graphic designer of a small business in San Antonio US.
               </p>
             </section>
  
@@ -30,25 +28,25 @@ function App() {
         Year level: Third year
         </p>
         <p className="leading-relaxed text-slate-700">
-        Hometown: Mambaling, Cebu City, Cebu
+        Hometown: Minglanilla, Cebu City, Cebu
       </p>
     </section>    
     <section className="mb-10">
      <h2 className="text-xl font-semibold mb-3">Things I like</h2>
      <ul className="list-disc list-inside space-y-1 text-slate-700">
         <li>Playing volleyball on freetime</li>
-        <li>Playing Video games</li>
-        <li>Chocolate and Oreo Cravings</li>
+        <li>Reading and Writing especially devotionals</li>
+        <li>Physical activities</li>
       </ul>
     </section>
  
     <section>
       <h2 className="text-xl font-semibold mb-3">Reach me</h2>
       <p className="leading-relaxed text-slate-700">
-        terenceemmanuel.devera@cit.edu
+        gianjoebert.caparas@cit.edu
         </p>
         <p className="leading-relaxed text-slate-700">
-        @notdevz on ig
+        underratedgian on Instagram
       </p>
     </section>
  
